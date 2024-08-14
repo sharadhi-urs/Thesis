@@ -4,8 +4,7 @@ This repository contains data and resources related to the thesis on climate cha
 
 ## Contents
 
-- **data/**: This folder contains the two main Excel files.
-  - `GAMI_Database_Articles.xlsx`: Articles from the Global Adaptation Mapping Initiative (GAMI) database.
+- **data/**: This folder contains the Excel file.
   - `Adaptation_in_India_Articles.xlsx`: Articles documenting adaptation measures in India.
   
 ## Purpose
